@@ -1,5 +1,7 @@
 # **BELANJA ANALISA**
 
+https://wisnuanggara.shinyapps.io/Belanjanalisis/
+
 ## Deskripsi
 Belanja Analisa merupakan aplikasi web yang dikembangkan khusus untuk analisis data transaksi. Belanja Analisa menawarkan fitur-fitur yang dikembangkan khusus untuk data transaksi, meliputi rancangan penelitian hingga analisa data transaksi. Di balik layar, Belanja Analisa menggunakan R untuk melakukan kalkulasi dan analisa data. Pengembang berusaha untuk membuat Belanja Analisa menjadi aplikasi web ramah pengguna dengan menyajikan antarmuka yang sederhana dan intuitif.
 
